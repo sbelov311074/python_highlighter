@@ -1,7 +1,7 @@
 """Flask module
 file: __init__.py
 date: 12.12.2012
-author smith@example.com
+author   smith@example.com
 license: MIT"""
 
 from flask import Flask, render_template, request, Markup
